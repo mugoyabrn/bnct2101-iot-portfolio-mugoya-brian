@@ -1,0 +1,12 @@
+[Soil Moisture Sensor] 
+        |
+        v
+     [ESP32]
+        |
+   Wi-Fi (MQTT)
+        |
+   [MQTT Broker]
+        |
+   [Node-RED Dashboard]
+        |
+  Farmer views data
